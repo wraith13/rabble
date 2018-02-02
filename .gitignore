@@ -32,6 +32,7 @@
 *.app
 
 .history
+private
 release
 workspace.local
 
